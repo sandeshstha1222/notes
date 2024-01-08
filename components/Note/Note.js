@@ -1,7 +1,7 @@
 import React from "react";
-import "./note.css";
-const note = () => {
+import "./Note.css";
+const Note = () => {
   return <div>note</div>;
 };
 
-export default note;
+export default Note;
